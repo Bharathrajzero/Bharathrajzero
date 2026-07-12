@@ -1,10 +1,11 @@
-# 🪐 Welcome to My Digital Orbit
+# 🪐 System Core: Active
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=cyberpunk&color=auto&text=BHARATH%20RAJ&animation=twinkling&fontColor=00f2fe&fontSize=70" width="100%" alt="Cyberpunk Header" />
-  
+  <!-- Futuristic Minimalist Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&height=100&lines=BHARATH+RAJ+;+AI+%26+FULL+STACK+ENGINEER;🤖+INTELLIGENT+ECOSYSTEMS" alt="System Identifier" />
+
   <p align="center">
-    <strong>🚀 Software Engineer | AI, Machine Learning & Cloud Architecture</strong>
+    <strong>🚀 Specializing in AI Security Gateways, LLM Infrastructure, and Scalable RAG Pipelines</strong>
   </p>
 
   <p align="center">
@@ -16,9 +17,9 @@
 
 ---
 
-## ⚡ Executive Summary
+## ⚡ Matrix Overview
 
-Highly driven Software Engineer specializing in building production-grade AI security gateways, LLM infrastructure optimizers, and scalable RAG pipelines. Passionate about managing agentic workflows, deploying carbon-aware proxy layers, and creating full-stack intelligent ecosystems.
+Highly driven Software Engineer specializing in Artificial Intelligence, Machine Learning, and Cloud Architecture[cite: 1]. Proven track record designing and deploying production-grade AI security gateways, LLM infrastructure optimizers, and scalable RAG pipelines[cite: 1]. Adept at building full-stack intelligent applications, managing agentic workflows, and implementing robust semantic configurations[cite: 1].
 
 ---
 
@@ -27,80 +28,80 @@ Highly driven Software Engineer specializing in building production-grade AI sec
 <div align="center">
   
   ### 🤖 Artificial Intelligence & Machine Learning
-  ![](https://img.shields.io/badge/Generative_AI-🧠-00f2fe?style=for-the-badge)
-  ![](https://img.shields.io/badge/LangChain-🦜-black?style=for-the-badge)
-  ![](https://img.shields.io/badge/LangGraph-⛓️-white?style=for-the-badge&logoColor=black)
-  ![](https://img.shields.io/badge/LlamaIndex-🦙-orange?style=for-the-badge)
-  ![](https://img.shields.io/badge/Agentic_AI_(n8n)-⚡-ff6a00?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Generative_AI-🧠-00f2fe?style=for-the-badge" alt="GenAI" />
+  <img src="https://img.shields.io/badge/LangChain-🦜-black?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-⛓️-white?style=for-the-badge&logoColor=black" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-🦙-orange?style=for-the-badge" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Agentic_AI_(n8n)-⚡-ff6a00?style=for-the-badge" alt="n8n" />
   <br />
-  ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
   
   ### 💻 Full-Stack Architecture & Runtimes
-  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <br />
-  ![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
 
-  ### ☁️ Infrastructure, Databases & Vector Planes
-  ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ### ☁️ Infrastructure & Vector Databases
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <br />
-  ![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![](https://img.shields.io/badge/Pinecone-⏳-black?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Pinecone-⏳-black?style=for-the-badge" alt="Pinecone" />
 
 </div>
 
 ---
 
-## 🛸 Core System Deployments (Featured Projects)
+## 🛸 Core Deployments (Featured Projects)
 
-### 🟢 GreenRoute-AI: Carbon-Aware LLM Proxy
-* **Architecture:** Developed a high-performance, carbon-aware LLM proxy using **FastAPI** and **Docker** to minimize the environmental footprint of heavy generative tasks without violating SLA latencies.
-* **Routing Logic:** Engineered a dynamic cognitive weight classifier and a semantic caching plane to triage arriving queries cleanly between lightweight edge SLMs and heavy cloud LLMs.
+### 🟢 GreenRoute-AI: Carbon-Aware LLM Proxy[cite: 1]
+* **Architecture:** Formulated a high-performance, carbon-aware LLM proxy infrastructure via **FastAPI** and **Docker** environments to target low environmental impact overhead metrics[cite: 1].
+* **Routing Logic:** Engineered a dynamic cognitive weight classifier combined with a semantic cache plane layer to triage arriving queries between local edge SLMs and cloud LLMs seamlessly[cite: 1].
 
-### 🛡️ GuardSphere: AI Security Gateway
-* **Security Ledger:** Crafted an enterprise-ready AI firewall utilizing FastAPI that successfully detects and filters out over 16 distinct adversarial prompt injection patterns and PII leak configurations.
-* **Performance:** Achieved an optimized sub-50ms real-time input sanitization latency backed by an integrated SQLite audit ledger and threat monitoring control panel.
+### 🛡️ GuardSphere: Enterprise AI Security Gateway[cite: 1]
+* **Defensive Firewall:** Shipped a production-grade AI gateway designed using FastAPI to programmatically intercept and shield applications from 16+ adversarial prompt injection vectors and explicit PII leaks[cite: 1].
+* **Execution Profiling:** Achieved a processing turnaround window under 50ms for synchronous input sanitization supported by an integrated SQLite tracking ledger[cite: 1].
 
-### ⚡ InfraPilot: AI Infrastructure Optimizer
-* **Control Panel:** Designed and shipped a comprehensive full-stack operations dashboard built with **React**, **Vite**, and **FastAPI** to simulate high-demand LLM workloads and monitor GPU fleet utilization profiles.
-* **Optimization:** Configured automated autoscaling metrics and Prometheus-compatible telemetry targets for proactive operational cost management.
+### ⚡ InfraPilot: AI Infrastructure Optimizer[cite: 1]
+* **Control Dashboard:** Deployed an administrative monitoring terminal leveraging **React**, **Vite**, and **FastAPI** setups to trace GPU fleet utility profiles under complex generative workloads[cite: 1].
+* **Automation Automation:** Standardized automated autoscaling mechanisms and customized smart routing parameters targeting real-time expense reduction[cite: 1].
 
 ---
 
 ## 🎖️ Enterprise Certifications
 
-* 🛡️ **Microsoft Certified:** Endpoint Administrator (MD-102 Pathway)
-* 🧠 **Microsoft Learn:** Azure Generative AI Application Developer
-* 🤖 **Microsoft 365:** Copilot and Autonomous Agent Administrator
-* ✨ **Google for Education:** Gemini Certified Student
-* 📊 **Databricks & Simplilearn:** Databricks for Machine Learning
+* 🛡️ **Microsoft Certified:** Endpoint Administrator (MD-102 Pathway)[cite: 1]
+* 🧠 **Microsoft Learn:** Azure Generative AI Application Developer[cite: 1]
+* 🤖 **Microsoft 365:** Copilot and Autonomous Agent Administrator[cite: 1]
+* ✨ **Google for Education:** Gemini Certified Student[cite: 1]
+* 📊 **Databricks & Simplilearn:** Databricks for Machine Learning[cite: 1]
 
 ---
 
-## 📊 Live System Metrics
+## 📊 Live Metrics Engine
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharathrajzero&show_icons=true&theme=cyberpunk&edge_color=00f2fe&icon_color=00f2fe&title_color=00f2fe" width="48%" alt="Global Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathrajzero&layout=compact&theme=cyberpunk&edge_color=7f00ff" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharathrajzero&show_icons=true&theme=dark&text_color=00f2fe&bg_color=0f172a&title_color=fff&icon_color=00f2fe&border_color=334155" width="48%" alt="Global Commit Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathrajzero&layout=compact&theme=dark&text_color=00f2fe&bg_color=0f172a&title_color=fff&border_color=334155" width="48%" alt="Language Breakdown Architecture" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathrajzero&theme=cyberpunk&background=00000000&hide_border=true" width="100%" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathrajzero&theme=dark&background=0f172a&text=00f2fe&ring=00f2fe&fire=ff6a00&border=334155" width="100%" alt="Development Timeline Continuity" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed with markdown vectors • Executing continuous terminal cycles</sub>
+  <sub>Execution Thread Active • Terminal Refresh Loop Continuous</sub>
 </div>
