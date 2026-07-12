@@ -109,6 +109,6 @@ Highly driven **Software Engineer** specializing in **Artificial Intelligence, M
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1d2pwd3B4eW12M3d4MnM1d2N5OHBvNzM0d2hxZjF5NXp5OHZsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOBX8wAU/giphy.gif" width="100%" height="2" alt="Footer Line" />
   <br/>
   <div align="center">
-  ><The best way to predict the future is to program it. Automating the complex, scaling the intelligent><.
+  >The best way to predict the future is to program it. Automating the complex, scaling the intelligent<.
   <br/>
 </div>
