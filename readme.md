@@ -26,7 +26,7 @@
   [STATUS: ONLINE] 🛰️ ROUTE: bharathrajportfolio.vercel.app
   [SECURE CHANNEL] 📧 EMAIL: braj37170@gmail.com
 
----
+ ---
 ## ⚡ MATRIX OVERVIEW
 
 Highly driven **Software Engineer** specializing in **Artificial Intelligence, Machine Learning, and Cloud Architecture**. Proven track record designing and deploying production-grade AI security gateways, LLM infrastructure optimizers, and scalable RAG pipelines. Adept at building full-stack intelligent applications, managing agentic workflows, and implementing robust semantic configurations.
