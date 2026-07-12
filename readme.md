@@ -84,18 +84,20 @@ Highly driven Software Engineer specializing in Artificial Intelligence, Machine
 
 ---
 
+---
+
 ## 📊 LIVE TELEMETRY MATRIX
 
 <div align="center">
-  <!-- REAL-TIME PRODUCTION TELEMETRY CARDS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharathrajzero&show_icons=true&theme=dark&text_color=00f2fe&bg_color=000000&title_color=ffffff&icon_color=00f2fe&border_color=1e293b" width="49%" alt="Global Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathrajzero&layout=compact&theme=dark&text_color=00f2fe&bg_color=000000&title_color=ffffff&border_color=1e293b" width="49%" alt="Language Matrix" />
+  <!-- HIGH-AVAILABILITY SYSTEM TELEMETRY CARDS -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bharathrajzero&show_icons=true&theme=dark&text_color=00f2fe&bg_color=000000&title_color=ffffff&icon_color=00f2fe&border_color=1e293b" width="49%" alt="Global Metrics" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bharathrajzero&layout=compact&theme=dark&text_color=00f2fe&bg_color=000000&title_color=ffffff&border_color=1e293b" width="49%" alt="Language Matrix" />
   
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathrajzero&theme=dark&background=000000&border=1e293b&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="100%" alt="Activity Streak" />
+  <!-- ALTERNATE STABILIZED STREAK METRIC -->
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=Bharathrajzero&theme=dark&background=000000&border=1e293b&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" width="100%" alt="Activity Streak" />
 </div>
-
 ---
 
 <div align="center">
