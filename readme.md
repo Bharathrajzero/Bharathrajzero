@@ -1,3 +1,5 @@
+# 🪐 SYSTEM COGNITION CORE : ACTIVE
+
 <div align="center">
   <!-- INTERACTIVE TERMINAL ANIMATION -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&width=900&height=60&lines=CORE+INITIALIZED...;BHARATH+RAJ+:::+AI+ENGINEER;DEPLOYING+AGENTIC+WORKFLOWS" alt="System Terminal" />
@@ -8,26 +10,46 @@
   <p align="center">
     <strong>⚡ Artificial Intelligence • Machine Learning • Cloud Architecture ⚡</strong>
   </p>
-
-  <p align="center">
-    <a href="mailto:braj37170@gmail.com"><img src="https://img.shields.io/badge/Email-braj37170%40gmail.com-00f2fe?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-    <a href="https://linkedin.com/in/bharath-raj-aa21a7402"><img src="https://img.shields.io/badge/LinkedIn-Connect-0575e6?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="https://bharathrajportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-7f00ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  </p>
 </div>
 
 ---
 
-## 🛰️ DEPLOYED ARCHITECTURE DEMO
+## 🛰️ ACCESS PORTAL & SYSTEM DEPLOYMENT
 
-<div align="center">
-  <!-- FUTURISTIC VIDEO WRAPPER (GIF Teaser Linking to Your Video Upload) -->
-  <a href="https://bharathrajportfolio.vercel.app" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk4M2E4MzBkMzQ5MzBmOTliNWRmY2ZlODAzMWQyNTVhMzBkMzQ5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7qE1YN7aBOBX8wAU/giphy.gif" width="100%" alt="Click to watch demo execution" style="border: 1px solid #00f2fe; border-radius: 8px; max-height: 400px; object-fit: cover;" />
-    <br />
-    <sub>🎬 <i>Click the radar interface plane above to launch full operational HD video dashboard.</i></sub>
-  </a>
-</div>
+<table width="100%">
+  <tr style="background: #0b0f19;">
+    <th colspan="2" style="color: #00f2fe; border: 1px solid #1e293b; padding: 12px; font-family: 'Orbitron', sans-serif; text-align: center; letter-spacing: 2px;">
+      📡 CHOOSE SYSTEM NAVIGATION VECTOR
+    </th>
+  </tr>
+  <tr>
+    <!-- PORTFOLIO LINK -->
+    <td width="50%" align="center" style="border: 1px solid #1e293b; padding: 25px; background: #05070c;">
+      <a href="https://bharathrajportfolio.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-EXE-7f00ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Launch Portfolio" height="40" />
+      </a>
+      <br/><br/>
+      <code style="color: #64748b; font-size: 0.8rem;">[STATUS: ONLINE]<br/>IP: bharathrajportfolio.vercel.app</code>
+    </td>
+    
+    <!-- LINKEDIN LINK -->
+    <td width="50%" align="center" style="border: 1px solid #1e293b; padding: 25px; background: #05070c;">
+      <a href="https://linkedin.com/in/bharath-raj-aa21a7402" target="_blank">
+        <img src="https://img.shields.io/badge/CONNECT_LINKEDIN-SYS-0575e6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect LinkedIn" height="40" />
+      </a>
+      <br/><br/>
+      <code style="color: #64748b; font-size: 0.8rem;">[STATUS: READY]<br/>ROUTE: /in/bharath-raj</code>
+    </td>
+  </tr>
+  <tr>
+    <!-- EMAIL / CONTACT LINK UNDERNEATH -->
+    <td colspan="2" align="center" style="border: 1px solid #1e293b; padding: 15px; background: #0b0f19;">
+      <a href="mailto:braj37170@gmail.com">
+        <code style="color: #00f2fe; text-decoration: none; font-family: monospace;">⚡ COM_CHANNEL_ACTIVE: braj37170@gmail.com ⚡</code>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
