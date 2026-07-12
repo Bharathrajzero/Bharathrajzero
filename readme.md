@@ -20,6 +20,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/CONNECT_LINKEDIN-05070c?style=for-the-badge&logo=linkedin&logoColor=00f2fe)](https://linkedin.com/in/bharath-raj-aa21a7402)
 <br/>
+```cyan
+  [STATUS: ONLINE] 🛰️ ROUTE: bharathrajportfolio.vercel.app
+  [SECURE CHANNEL] 📧 EMAIL: braj37170@gmail.com
 
  ---
 ## ⚡ MATRIX OVERVIEW
