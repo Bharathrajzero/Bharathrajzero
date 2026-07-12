@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=2500&pause=300&color=00F2FE&center=true&vCenter=true&width=900&height=70&lines=⚡+SYSTEM+COGNITION+CORE+ONLINE...;BHARATH+RAJ+|+AI+ENGINEER;ORCHESTRATING+AGENTIC+WORKFLOWS" alt="System Terminal" />
+  <!-- INTERACTIVE TERMINAL TYPING ANIMATION -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&width=900&height=60&lines=CORE+INITIALIZED...;BHARATH+RAJ+:::+AI+ENGINEER;DEPLOYING+AGENTIC+WORKFLOWS" alt="System Terminal" />
 
+  <!-- FUTURISTIC INTERFACE ANIMATED RADAR SEPARATOR -->
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI1d2pwd3B4eW12M3d4MnM1d2N5OHBvNzM0d2hxZjF5NXp5OHZsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOBX8wAU/giphy.gif" width="100%" height="4" alt="Laser Divider" />
 
   <p align="center">
-    <strong>🧠 Artificial Intelligence • 🛠️ Machine Learning • ☁️ Cloud Architecture</strong>
+    <strong>⚡ Artificial Intelligence • Machine Learning • Cloud Architecture ⚡</strong>
   </p>
 </div>
 
 ---
+
 
 ## 🛰️ ACCESS PORTAL & SYSTEM NAVIGATION
 
