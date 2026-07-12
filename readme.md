@@ -12,43 +12,21 @@
 
 ---
 
+## 🛰️ SYSTEM ACCESS PORTAL
 
-## 🛰️ ACCESS PORTAL & SYSTEM NAVIGATION
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/LAUNCH_PORTFOLIO-05070c?style=for-the-badge&logo=googlechrome&logoColor=00f2fe&edge_flat=false)](https://bharathrajportfolio.vercel.app)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/CONNECT_LINKEDIN-05070c?style=for-the-badge&logo=linkedin&logoColor=00f2fe)](https://linkedin.com/in/bharath-raj-aa21a7402)
 
-<table width="100%">
-  <tr style="background: #0b0f19;">
-    <th colspan="2" style="color: #00f2fe; border: 1px solid #1e293b; padding: 12px; font-family: 'Orbitron', sans-serif; text-align: center; letter-spacing: 2px;">
-      📡 SELECT SYSTEM COGNITION ROUTE
-    </th>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="border: 1px solid #1e293b; padding: 25px; background: #05070c;">
-      <a href="https://bharathrajportfolio.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-EXE-7f00ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Launch Portfolio" height="40" />
-      </a>
-      <br/><br/>
-      <code style="color: #64748b; font-size: 0.8rem;">[STATUS: ONLINE]<br/>IP: bharathrajportfolio.vercel.app</code>
-    </td>
-    
-    <td width="50%" align="center" style="border: 1px solid #1e293b; padding: 25px; background: #05070c;">
-      <a href="https://linkedin.com/in/bharath-raj-aa21a7402" target="_blank">
-        <img src="https://img.shields.io/badge/CONNECT_LINKEDIN-SYS-0575e6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect LinkedIn" height="40" />
-      </a>
-      <br/><br/>
-      <code style="color: #64748b; font-size: 0.8rem;">[STATUS: READY]<br/>ROUTE: /in/bharath-raj</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: 1px solid #1e293b; padding: 15px; background: #0b0f19;">
-      <a href="mailto:braj37170@gmail.com">
-        <code style="color: #00f2fe; text-decoration: none; font-family: monospace; letter-spacing: 1px;">⚡ SECURE_COMM_CHANNEL: braj37170@gmail.com ⚡</code>
-      </a>
-    </td>
-  </tr>
-</table>
+  <br/>
+
+  ```cyan
+  [STATUS: ONLINE] 🛰️ ROUTE: bharathrajportfolio.vercel.app
+  [SECURE CHANNEL] 📧 EMAIL: braj37170@gmail.com
 
 ---
-
 ## ⚡ MATRIX OVERVIEW
 
 Highly driven **Software Engineer** specializing in **Artificial Intelligence, Machine Learning, and Cloud Architecture**. Proven track record designing and deploying production-grade AI security gateways, LLM infrastructure optimizers, and scalable RAG pipelines. Adept at building full-stack intelligent applications, managing agentic workflows, and implementing robust semantic configurations.
