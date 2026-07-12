@@ -1,6 +1,3 @@
-Here is the completely fixed and production-ready code block. The broken backticks closing the access portal have been repaired, all heavy HTML tables have been replaced with ultra-clean Markdown grids, text labels have been bolded for high visibility, and the layout has been perfectly streamlined.
-
-```markdown
 <div align="center">
   <!-- INTERACTIVE TERMINAL TYPING ANIMATION -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&width=900&height=60&lines=CORE+INITIALIZED...;BHARATH+RAJ+:::+AI+ENGINEER;DEPLOYING+AGENTIC+WORKFLOWS" alt="System Terminal" />
@@ -19,20 +16,12 @@ Here is the completely fixed and production-ready code block. The broken backtic
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/LAUNCH_PORTFOLIO-05070c?style=for-the-badge&logo=googlechrome&logoColor=00f2fe)](https://bharathrajportfolio.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/LAUNCH_PORTFOLIO-05070c?style=for-the-badge&logo=googlechrome&logoColor=00f2fe&edge_flat=false)](https://bharathrajportfolio.vercel.app)
   &nbsp;&nbsp;&nbsp;&nbsp;
   [![LinkedIn](https://img.shields.io/badge/CONNECT_LINKEDIN-05070c?style=for-the-badge&logo=linkedin&logoColor=00f2fe)](https://linkedin.com/in/bharath-raj-aa21a7402)
+<br/>
 
-  <br/><br/>
-
-  ```cyan
-  [STATUS: ONLINE] 🛰️ ROUTE: bharathrajportfolio.vercel.app
-  [SECURE CHANNEL] 📧 EMAIL: braj37170@gmail.com
-
-```
-
----
-
+ ---
 ## ⚡ MATRIX OVERVIEW
 
 Highly driven **Software Engineer** specializing in **Artificial Intelligence, Machine Learning, and Cloud Architecture**. Proven track record designing and deploying production-grade AI security gateways, LLM infrastructure optimizers, and scalable RAG pipelines. Adept at building full-stack intelligent applications, managing agentic workflows, and implementing robust semantic configurations.
@@ -41,50 +30,50 @@ Highly driven **Software Engineer** specializing in **Artificial Intelligence, M
 
 ## 🛠️ TECHNOLOGICAL MATRIX (CORE STACK)
 
-| 🤖 AI & ML Ecosystem | 💻 Full-Stack Architecture | ☁️ Infrastructure Planes |
-| --- | --- | --- |
-| • Generative AI & RAG <br>
-
-<br> • LangChain & LangGraph <br>
-
-<br> • LlamaIndex & n8n Agentics <br>
-
-<br> • PyTorch & Scikit-Learn <br>
-
-<br> • Hugging Face & Ollama | • Python & FastAPI <br>
-
-<br> • TypeScript & JavaScript <br>
-
-<br> • Django & Flask <br>
-
-<br> • React & Vite Engines <br>
-
-<br> • Node.js & Turborepo | • Microsoft Azure Cloud <br>
-
-<br> • Docker Virtualization <br>
-
-<br> • PostgreSQL & Supabase <br>
-
-<br> • Redis Semantic Caching <br>
-
-<br> • Chroma & Pinecone Vectors |
+<table width="100%">
+  <tr style="background: #0b0f19;">
+    <th width="33%" align="left" style="color: #00f2fe; border: 1px solid #1e293b; padding: 10px;">🤖 AI & ML Ecosystem</th>
+    <th width="33%" align="left" style="color: #00f2fe; border: 1px solid #1e293b; padding: 10px;">💻 Full-Stack Architecture</th>
+    <th width="33%" align="left" style="color: #00f2fe; border: 1px solid #1e293b; padding: 10px;">☁️ Infrastructure Planes</th>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 1px solid #1e293b; padding: 15px; line-height: 1.6; background: #05070c;">
+      • Generative AI & RAG <br/>
+      • LangChain & LangGraph <br/>
+      • LlamaIndex & n8n Agentics <br/>
+      • PyTorch & Scikit-Learn <br/>
+      • Hugging Face & Ollama
+    </td>
+    <td valign="top" style="border: 1px solid #1e293b; padding: 15px; line-height: 1.6; background: #05070c;">
+      • Python & FastAPI <br/>
+      • TypeScript & JavaScript <br/>
+      • Django & Flask <br/>
+      • React & Vite Engines <br/>
+      • Node.js & Turborepo
+    </td>
+    <td valign="top" style="border: 1px solid #1e293b; padding: 15px; line-height: 1.6; background: #05070c;">
+      • Microsoft Azure Cloud <br/>
+      • Docker Virtualization <br/>
+      • PostgreSQL & Supabase <br/>
+      • Redis Semantic Caching <br/>
+      • Chroma & Pinecone Vectors
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛸 CORE SYSTEM DEPLOYMENTS
 
 ### 🟢 GreenRoute-AI: Carbon-Aware LLM Proxy
-
 * **Architecture:** Formulated a high-performance, carbon-aware LLM proxy infrastructure via **FastAPI** and **Docker** environments to target low environmental impact overhead metrics.
 * **Routing Logic:** Engineered a dynamic cognitive weight classifier combined with a semantic cache plane layer to triage arriving queries between local edge SLMs and cloud LLMs seamlessly.
 
 ### 🛡️ GuardSphere: Enterprise AI Security Gateway
-
 * **Defensive Firewall:** Shipped a production-grade AI gateway designed using **FastAPI** to programmatically intercept and shield applications from 16+ adversarial prompt injection vectors and explicit PII leaks.
 * **Execution Profiling:** Achieved a processing turnaround window under **50ms** for synchronous input sanitization supported by an integrated SQLite tracking ledger.
 
 ### ⚡ InfraPilot: AI Infrastructure Optimizer
-
 * **Control Dashboard:** Deployed an administrative monitoring terminal leveraging **React**, **Vite**, and **FastAPI** setups to trace GPU fleet utility profiles under complex generative workloads.
 * **Optimization Engine:** Standardized automated autoscaling mechanisms and customized smart routing parameters targeting real-time expense reduction.
 
