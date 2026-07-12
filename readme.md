@@ -1,5 +1,3 @@
-# 🪐 SYSTEM COGNITION CORE : ACTIVE
-
 <div align="center">
   <!-- INTERACTIVE TERMINAL ANIMATION -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&width=900&height=60&lines=CORE+INITIALIZED...;BHARATH+RAJ+:::+AI+ENGINEER;DEPLOYING+AGENTIC+WORKFLOWS" alt="System Terminal" />
