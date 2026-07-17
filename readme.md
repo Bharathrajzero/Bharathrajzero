@@ -27,7 +27,7 @@
 ---
 ## ⚡ MATRIX OVERVIEW
 
-Highly driven **Software Engineer** specializing in **Artificial Intelligence, Machine Learning, and Cloud Architecture**. Proven track record designing and deploying production-grade AI security gateways, LLM infrastructure optimizers, and scalable RAG pipelines. Adept at building full-stack intelligent applications, managing agentic workflows, and implementing robust semantic configurations.
+B.E. Graduate in AI & ML with a strong foundation in building production-ready GenAI, ML applications, and full-stack solutions. Skilled  in designing robust RAG pipelines, securing AI gateways, and delivering seamless end-to-end user experiences. Passionate about bridging the gap between complex AI logic and scalable full-stack development to deliver practical, real-world code. 
 
 ---
 
