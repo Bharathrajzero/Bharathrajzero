@@ -142,9 +142,6 @@ Enterprise AI security gateway that intercepts 16+ adversarial prompt-injection 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bharathrajzero&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00C2FF&icon_color=00C2FF" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathrajzero&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00C2FF" width="41.5%" alt="Top Languages" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathrajzero&theme=dark&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="91%" alt="Streak Stats" />
