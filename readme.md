@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="./Banner.png" alt="Full Size Screenshot" width="100%">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=1200&color=00C2FF&center=true&vCenter=true&width=680&lines=Building+production-ready+GenAI+systems;RAG+Pipelines+-+AI+Gateways+-+Agentic+Workflows;Turning+complex+AI+logic+into+shipped+products" alt="Typing SVG" />
 
 <br/>
@@ -114,24 +115,14 @@ Full-stack career planning app for goal tracking, skill-gap analysis, and person
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Titanic Data Analytics](https://github.com/Bharathrajzero/Titanic-Data-Analytics)
-Production-ready interactive analytics dashboard built on the Titanic dataset.
+### 🛡️ GuardSphere
+Enterprise AI security gateway that intercepts 16+ adversarial prompt-injection vectors and PII leaks, with sub-50ms synchronous input sanitization backed by a SQLite tracking ledger.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi) ![SQLite](https://img.shields.io/badge/-SQLite-0d1117?style=flat-square&logo=sqlite)
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>🛡️ GuardSphere — Enterprise AI Security Gateway</b> (click to expand)</summary>
-<br/>
-
-A production-grade AI gateway built with **FastAPI** that intercepts and shields applications from **16+ adversarial prompt-injection vectors** and explicit PII leaks — with sub-**50ms** synchronous input sanitization, backed by a SQLite tracking ledger.
-
-`FastAPI` · `SQLite` · `AI Security`
-
-</details>
 
 <br/>
 
