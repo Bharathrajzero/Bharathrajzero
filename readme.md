@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="./Banner.png" alt="Full Size Screenshot" width="100%">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=1200&color=00C2FF&center=true&vCenter=true&width=680&lines=Building+production-ready+GenAI+systems;RAG+Pipelines+-+AI+Gateways+-+Agentic+Workflows;Turning+complex+AI+logic+into+shipped+products" alt="Typing SVG" />
 
 <br/>
