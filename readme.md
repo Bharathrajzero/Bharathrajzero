@@ -29,7 +29,7 @@ I like taking AI systems past the prototype stage: caching, routing, cost contro
 
 ```yaml
 name: Bharath Raj
-role: AI& Full Stack Developer
+role: AI & Full Stack Developer
 location: Mangaluru, India
 focus: [Generative AI & RAG, Agentic Systems, Full-Stack Development]
 stack: [Python, FastAPI, React, LangChain]
