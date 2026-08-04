@@ -18,7 +18,7 @@
 
 ## 📍 About Me
 
-I'm a **B.E. graduate in AI & Machine Learning** based in Mangaluru, India. I build production-ready **Generative AI** applications, ML systems, and full-stack products - with a particular focus on **RAG pipelines**, **AI security gateways**, and **agentic workflows** that hold up under real load, not just demos.
+I'm a **B.E. graduate in AI & Machine Learning** based in Mangaluru, India. I build production-ready **Generative AI** applications, ML systems, and full-stack products.
 
 I like taking AI systems past the prototype stage: caching, routing, cost control, and security are as much a part of the work as the model itself.
 
