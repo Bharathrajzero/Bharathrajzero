@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Add ?v=1 or ?refresh=true at the end -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,50:0b3a52,100:0f172a&height=230&section=header&text=Bharath%20Raj&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20&%20Full-Stack%20Developer&descAlignY=56&descSize=17" width="100%" alt="Header banner" />
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,50:0b3a52,100:0f172a&height=230&section=header&text=Bharath%20Raj&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20&%20Full-Stack%20Developer&descAlignY=56&descSize=17)
 <img src="./Banner.png" alt="Full Size Screenshot" width="100%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=1200&color=00C2FF&center=true&vCenter=true&width=680&lines=Building+production-ready+GenAI+systems;RAG+Pipelines+-+AI+Gateways+-+Agentic+Workflows;Turning+complex+AI+logic+into+shipped+products" alt="Typing SVG" />
